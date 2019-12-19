@@ -1,0 +1,65 @@
+{
+    "name": "CTA Bus Tracker",
+    "description": "Information about CTA bus and train service in and around Chicago. Find maps, schedules, service alerts, plan a trip, jobs, news and more!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/746-cta-bus-tracker.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "illinois"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/cta-bus-tracker\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "CTA Bus Tracker",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/746-cta-bus-tracker.jpg",
+            "humanURL": "http:\/\/www.transitchicago.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/cta-bus-tracker-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/www.ctabustracker.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/chicago-transit-authority"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.transitchicago.com\/developers\/"
+        },
+        {
+            "type": "Email",
+            "url": "feedback@transitchicago.com"
+        },
+        {
+            "type": "Email",
+            "url": "webmaster@transitchicago.com"
+        },
+        {
+            "type": "Terms of Service",
+            "url": "http:\/\/www.transitchicago.com\/developers\/terms.aspx"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/cta"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.transitchicago.com"
+        }
+    ]
+}
